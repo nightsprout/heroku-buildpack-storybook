@@ -9,6 +9,6 @@ then
   echo '       Overwriting existing `static.json`'
 fi
 
-echo '{ "root": "storybook-static/" }' > static.json
+echo '{ "root": "storybook/" }' > static.json
 
 npm run storybook

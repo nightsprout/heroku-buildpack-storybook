@@ -11,4 +11,4 @@ fi
 
 echo '{ "root": "storybook-static/" }' > static.json
 
-yarn build-storybook
+npm run storybook

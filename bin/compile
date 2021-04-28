@@ -11,4 +11,5 @@ fi
 
 echo '{ "root": "storybook/" }' > static.json
 
+npm install
 npm run build-storybook

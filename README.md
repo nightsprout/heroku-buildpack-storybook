@@ -22,7 +22,7 @@ If you are using an `app.json`, it might look something like this:
       "url": "heroku/nodejs"
     },
     {
-      "url": "https://github.com/Root-App/heroku-buildpack-storybook.git"
+      "url": "https://github.com/nightsprout/heroku-buildpack-storybook.git"
     },
     {
       "url": "https://github.com/heroku/heroku-buildpack-static.git"

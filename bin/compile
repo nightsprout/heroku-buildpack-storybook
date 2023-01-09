@@ -9,7 +9,7 @@ then
   echo '       Overwriting existing `static.json`'
 fi
 
-echo '{ "root": "storybook/" }' > static.json
+echo '{ "root": "storybook-static/" }' > static.json
 
 yarn install
 yarn build-storybook
